@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Cambio en main que puede generar conflicto 
+=======
+Funcionalidad nueva en desarrollo
+>>>>>>> desarrollo
